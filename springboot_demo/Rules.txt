@@ -1,0 +1,9 @@
+- Architettura a più livelli : controller -> service -> repository
+
+- Non andrò mai ad esporre un entity JPA all'esterno ma userò sempre dei DTO
+
+- Effettuerò una validazione dell'input con bean validation
+
+- Schema del DB con flyway (non hibernate)
+
+- creazione di test automatici alla fine
